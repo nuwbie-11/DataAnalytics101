@@ -1,6 +1,11 @@
 # Automobiles
 
-source : [Kaggle](kaggle.com/datasets/tawfikelmetwally/automobile-dataset)
+### About Dataset
+- `[Automobile.csv]`(kaggle.com/datasets/tawfikelmetwally/automobile-dataset) is the main source of the data
+- `Processed Automobile.csv` is processed from the main data. its include new Column (class). 
 
 
-[Dashboard](https://lookerstudio.google.com/reporting/e301beca-d68e-46f8-b9f8-e8282a958ab1) i've made with Google Data Studio (UnComplete)
+### Dashboard
+[Dashboard](https://lookerstudio.google.com/reporting/e301beca-d68e-46f8-b9f8-e8282a958ab1) i've made with Google Data Studio (Not Finished Yet)
+
+
