@@ -6,6 +6,6 @@
 
 
 ### Dashboard
-[Dashboard](https://lookerstudio.google.com/reporting/e301beca-d68e-46f8-b9f8-e8282a958ab1) i've made with Google Data Studio (Not Finished Yet)
+[Dashboard](https://lookerstudio.google.com/reporting/fb1ed968-5de2-439d-98c8-adfbcb88c9c4) i've made with Google Data Studio (Not Finished Yet)
 
 
