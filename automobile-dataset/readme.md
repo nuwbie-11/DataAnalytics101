@@ -1,7 +1,7 @@
 # Automobiles
 
 ### About Dataset
-- `Automobile.csv` is the main [source](https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset) of the data
+- `Automobile.csv` is the main source of the data that i've got from [kaggle](https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset) 
 - `Processed Automobile.csv` is processed from the main data. its include new Column 'Class' ( Bad / Good Cars ) and 'Manufacturer'  
 
 
