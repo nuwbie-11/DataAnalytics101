@@ -1,0 +1,328 @@
+[
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 685460.5663018653,
+            "MSE": 615997425094.772,
+            "MdSE": 602125.7897761909
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": -5
+        },
+        "Metrics": {
+            "MAE": 685460.5663018653,
+            "MSE": 615997425094.772,
+            "MdSE": 602125.7897761909
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": -1
+        },
+        "Metrics": {
+            "MAE": 685460.5663018653,
+            "MSE": 615997425094.772,
+            "MdSE": 602125.7897761909
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.3,
+        "Params": {
+            "MAE": 167302.1372205564,
+            "MSE": 105569364960.16705,
+            "MdSE": 87801.75557982456
+        },
+        "Metrics": {
+            "max_depth": 3,
+            "n_estimators": 250
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.3,
+        "Params": {
+            "MAE": 189641.59697241386,
+            "MSE": 104756679181.2725,
+            "MdSE": 71800.31074712763
+        },
+        "Metrics": {
+            "max_depth": 19,
+            "n_estimators": 87
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": -1
+        },
+        "Metrics": {
+            "MAE": 215776.47994297574,
+            "MSE": 75500569875.44469,
+            "MdSE": 194143.43190966127
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.3,
+        "Params": {
+            "MAE": 185888.68424023007,
+            "MSE": 102100788197.89078,
+            "MdSE": 71343.87982758624
+        },
+        "Metrics": {
+            "max_depth": 19,
+            "n_estimators": 87
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.3,
+        "Params": {
+            "MAE": 187155.50233829793,
+            "MSE": 102478411582.24255,
+            "MdSE": 69934.62057180936
+        },
+        "Metrics": {
+            "max_depth": 11,
+            "n_estimators": 94
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": -1
+        },
+        "Metrics": {
+            "MAE": 215776.47994297574,
+            "MSE": 75500569875.44469,
+            "MdSE": 194143.43190966127
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 215776.47994297574,
+            "MSE": 75500569875.44469,
+            "MdSE": 194143.43190966127
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.3,
+        "Params": {
+            "MAE": 185130.30554769508,
+            "MSE": 100303832061.54561,
+            "MdSE": 71741.90639184415
+        },
+        "Metrics": {
+            "max_depth": 11,
+            "n_estimators": 94
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.3,
+        "Params": {
+            "MAE": 0.1656992943668408,
+            "MSE": 0.05168141172255476,
+            "MdSE": 0.100790154872798
+        },
+        "Metrics": {
+            "max_depth": 2,
+            "n_estimators": 54
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.3,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 0.7045521606981101,
+            "MSE": 0.6283044192406448,
+            "MdSE": 0.6089370615659393
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.2,
+        "Params": {
+            "MAE": 0.15983962371480978,
+            "MSE": 0.048092779958146384,
+            "MdSE": 0.09939049340226781
+        },
+        "Metrics": {
+            "max_depth": 18,
+            "n_estimators": 142
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.2,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 3.5569647899317496,
+            "MSE": 16.082048857609987,
+            "MdSE": 3.616411224959279
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.33,
+        "Params": {
+            "MAE": 0.16970391255432749,
+            "MSE": 0.07241889870621702,
+            "MdSE": 0.09039123644891564
+        },
+        "Metrics": {
+            "max_depth": 2,
+            "n_estimators": 260
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.33,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 0.55982762268638,
+            "MSE": 0.3687600400524693,
+            "MdSE": 0.5568058200957746
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.33,
+        "Params": {
+            "max_depth": 2,
+            "n_estimators": 260
+        },
+        "Metrics": {
+            "MAE": 0.16970391255432749,
+            "MSE": 0.07241889870621702,
+            "MdSE": 0.09039123644891564
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.33,
+        "Params": {
+            "MAE": 0.16970391255432749,
+            "MSE": 0.07241889870621702,
+            "MdSE": 0.09039123644891564
+        },
+        "Metrics": {
+            "max_depth": 2,
+            "n_estimators": 260
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.33,
+        "Params": {
+            "max_depth": 2,
+            "n_estimators": 260
+        },
+        "Metrics": {
+            "MAE": 0.16970391255432749,
+            "MSE": 0.07241889870621702,
+            "MdSE": 0.09039123644891564
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.33,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 0.55982762268638,
+            "MSE": 0.3687600400524693,
+            "MdSE": 0.5568058200957746
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.33,
+        "Params": {
+            "max_depth": 2,
+            "n_estimators": 260
+        },
+        "Metrics": {
+            "MAE": 0.16970391255432749,
+            "MSE": 0.07241889870621702,
+            "MdSE": 0.09039123644891564
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.33,
+        "Params": {
+            "max_depth": 9,
+            "n_estimators": 492
+        },
+        "Metrics": {
+            "MAE": 608364.3398191036,
+            "MSE": 457185190720.22943,
+            "MdSE": 657450.5039024334
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.33,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 296388.5010743509,
+            "MSE": 141878227212.7184,
+            "MdSE": 298592.4968459322
+        }
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.35,
+        "Params": {
+            "max_depth": 2,
+            "n_estimators": 411
+        },
+        "Metrics": {
+            "MAE": 520528.15193730366,
+            "MSE": 398479788785.6176,
+            "MdSE": 626916.1412312046
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.35,
+        "Params": {
+            "jobs": 5
+        },
+        "Metrics": {
+            "MAE": 237089.2641251641,
+            "MSE": 98257737015.85759,
+            "MdSE": 196230.95899401186
+        }
+    }
+]

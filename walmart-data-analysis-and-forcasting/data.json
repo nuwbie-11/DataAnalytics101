@@ -1,0 +1,23 @@
+[
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.25,
+        "Params": {
+            "max_depth": 1,
+            "n_estimators": 79
+        }
+    },
+    {
+        "Regressor": "Linear",
+        "Test Size": 0.25,
+        "Params": null
+    },
+    {
+        "Regressor": "Random Forest",
+        "Test Size": 0.25,
+        "Params": {
+            "max_depth": 1,
+            "n_estimators": 79
+        }
+    }
+]
