@@ -1,3 +1,6 @@
+*Keep Grinding !!*
+---
+
 # Data-Analytics
 
 This repository is used to storing and showcasing on How i would do Data Analytical :)
