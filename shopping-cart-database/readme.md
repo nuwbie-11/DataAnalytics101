@@ -7,6 +7,7 @@
 - From `orders.csv` we could acquire Delivery time, which shows the gaps on how long orders to be delivered
 - Most orders are listed at month 3
 - Most orders has to wait on 14-15 days to be delivered
+![Alt text](image-4.png)
 - Most Customers are Non-Binary with most bought by them are Jacket
 ![Gender Distribution](image-3.png)
 
