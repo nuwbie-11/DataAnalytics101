@@ -13,7 +13,7 @@
 
 - Product with most revenue are product number 78 which is Shirt by Flannel
 ![Revenues](image.png)
-- Flannel Products has Revenue at 3102 (highest)
+- Flannel Products has Revenue at 3102 (highest) in type of Shirts
 ![Shop Revenue](image-1.png)
 
 - Even though Flannel has most revenue, turns out flannel was not most ordered items
