@@ -8,6 +8,7 @@
 - Most orders are listed at month 3
 - Most orders has to wait on 14-15 days to be delivered
 - Most Customers are Non-Binary with most bought by them are Jacket
+![Gender Distribution](image-3.png)
 
 ![Revenues](image.png)
 - Product with most revenue are product number 78 which is Shirt by Flannel
