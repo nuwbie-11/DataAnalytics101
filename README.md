@@ -1,7 +1,9 @@
 *Keep Grinding !!*
 ---
 
+
 # Data-Analytics
+One Month Analytical Challange :bowtie:
 
 This repository is used to storing and showcasing on How i would do Data Analytical :)
 
