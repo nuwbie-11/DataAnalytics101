@@ -12,12 +12,12 @@ This repository is used to storing and showcasing on How i would do Data Analyti
 
 
 ## Checkmark
-- [] English Movies
-- [x] Automobiles
-- [] Cardiovascular
-- [] Salary Dataset
-- [x] Shopping Cart
-- [] Walmart 
+[x] English Movies
+[x] Automobiles
+[] Cardiovascular
+[] Salary Dataset
+[x] Shopping Cart
+[] Walmart 
 
 
 ## To do
