@@ -27,6 +27,7 @@ Features Information about popular English Movies that ever produced (Until 2023
 
 
 
-## More To Do
+## To Do
 
+- [x] Looks up the Data
 - [] Create a NLP model to predict genre based on Overview 
