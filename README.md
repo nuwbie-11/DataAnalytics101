@@ -14,10 +14,10 @@ This repository is used to storing and showcasing on How i would do Data Analyti
 ## Checkmark
 - [x] English Movies
 - [x] Automobiles
-- [] Cardiovascular
-- [] Salary Dataset
+- [ ] Cardiovascular
+- [ ] Salary Dataset
 - [x] Shopping Cart
-- [] Walmart 
+- [ ] Walmart 
 
 
 ## To do
