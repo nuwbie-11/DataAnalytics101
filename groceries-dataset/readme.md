@@ -7,3 +7,9 @@ This time i'll try to do some cohort analysis. I've just learned the subject :)
 - There is a day where the former customer does not back at all
 
 ![Alt text](image.png)
+
+
+## Neaw Features
+
+Adding new features :
+- Cat/Categories, is simplefied or organized from itemDescription Column
