@@ -18,7 +18,7 @@ This repository is used to storing and showcasing on How i would do Data Analyti
 - [x] Groceries
 - [x] Shopping Cart
 - [x] Walmart 
-- [ ] 
+- [x] Netflix 
 
 
 ## To do
