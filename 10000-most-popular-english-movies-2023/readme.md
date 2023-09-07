@@ -1,4 +1,4 @@
-> "The Most Important Things Seem Invisible to Eyes." - Suisei Hoshimachi
+
 
 # Holywood Movies : An Analytical
 Features Information about popular English Movies that ever produced (Until 2023. And upcoming that revealed on before and 2023) 🎬
@@ -31,3 +31,19 @@ Features Information about popular English Movies that ever produced (Until 2023
 
 - [x] Looks up the Data
 - [ ] Create a NLP model to predict genre based on Overview 
+
+
+## Approach
+- as usual i use `pandas` to read the csv files
+- then using `pandas.dataframe.info` i achieve brief information about dataset columns. And indicated less than 5% of the total data.
+- Thus the null value is less than 25% using delete rows approach is posible
+- with `pandas.dataframe.dropna` i can delete rows that consist null value
+- Beside that there is `release_data` column where has `object` as dtype instead of `datetime`
+- Using `pd.datetime` i can solve the issue
+- With the previous date column that has been converted. I could extract the specific years, month, and day according to its release date
+- Using `pd.dataframe.describe` i achieve brief statistic
+- After achieve the statistic before, i notice there are a movies that hasn't released yet and already has gain popularity
+- using dataframe slicing with `release_year > 2023` i achieve most of movies that hasnt been released yet
+- Using `wordcloud` i can achieve what keyword that most movies telling about
+- To use `wordcloud` you should install it first just like pandas. in my case i use `conda install -c conda-forge wordcloud`
+- After that, i did the analysis approach as usual (like getting information for each column, getting correlation, etc)
