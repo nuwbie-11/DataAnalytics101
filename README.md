@@ -17,7 +17,7 @@ This repository is used to storing and showcasing on How i would do Data Analyti
   1. On [100-most-popular-english-movies-2023](https://github.com/nuwbie-11/DataAnalytics101/tree/main/10000-most-popular-english-movies-2023) i've added whole readme. inside that documentation are explained on what, how approach i use, insights and some to dos
   2. On [automobile-dataset](https://github.com/nuwbie-11/DataAnalytics101/tree/main/automobile-dataset) i've added dashboard as substitute for insight i've got
 
-Therefore i ==recomended== to look out on those both cases as mentioned before or look out each cases.
+Therefore i <mark>Important</mark>. to look out on those both cases as mentioned before or look out each cases.
 
 ## Checkmark
 - [x] English Movies
